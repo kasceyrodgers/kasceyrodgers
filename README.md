@@ -1,4 +1,4 @@
-- 👋 Sup! I’m Kascey Rodgers.
+- 👋 What's up! I’m Kascey Rodgers.
 - 🌱 I’m continuously learning front end and UX design. 
 - 💞️ I’m looking to collaborate on anything easy at first.
 - 📫 You can reach me at kascey.rodgers@gmail.com or visit kascey.io to DM on any platform!
